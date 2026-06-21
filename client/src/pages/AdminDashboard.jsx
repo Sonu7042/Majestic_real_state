@@ -823,7 +823,7 @@ const AdminDashboard = () => {
               <div className="col-lg-8">
                 <div className="admin-panel">
                   <h2>Current Gallery Images</h2>
-                  <p className="text-muted small">The first three visible images by sort order appear on the website.</p>
+                  <p className="text-muted small">All visible images appear on the website, three per row, in sort order.</p>
                   <div className="admin-project-list">
                     {galleryImages.map((item) => (
                       <article className="admin-project-item" key={item.id}>

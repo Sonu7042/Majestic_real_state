@@ -13,7 +13,6 @@ const getPublicGalleryImages = async (req, res) => {
   try {
     const images = await GalleryImage.find({ isActive: true })
       .sort({ sortOrder: 1, createdAt: -1 })
-      .limit(3)
       .lean();
     res.json(images);
   } catch (error) {

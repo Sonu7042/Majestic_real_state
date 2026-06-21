@@ -18,7 +18,7 @@ const DynamicGallery = () => {
           <div className="separator mx-auto"></div>
         </div>
         <div className="row g-4">
-          {images.slice(0, 3).map((item, index) => (
+          {images.map((item, index) => (
             <div className="col-md-4" key={item.id} data-aos="fade-up" data-aos-delay={index * 100}>
               <img className="dynamic-gallery-image" src={item.image} alt={item.title} />
             </div>
