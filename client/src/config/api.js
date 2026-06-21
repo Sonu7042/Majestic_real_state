@@ -1,7 +1,7 @@
 // const defaultApiBaseUrl = "http://localhost:7000"
 const defaultApiBaseUrl = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
   ? 'http://localhost:7000'
-  : 'https://mejastic-real-state.vercel.app'
+  : 'https://majestic-real-state-2gbk.vercel.app'
 
 export const API_BASE_URL = (import.meta.env.VITE_API_URL || defaultApiBaseUrl).replace(/\/$/, '')
 
