@@ -1,0 +1,101 @@
+[
+  {
+    "id": 137,
+    "title": "Mahindra Luminare",
+    "location": "Gurgaon",
+    "type": "Residential",
+    "area": "On Request",
+    "price": "On Request*",
+    "badge": "Residential",
+    "category": "Residential",
+    "featured": true
+  },
+  {
+    "id": 136,
+    "title": "DLF The Grove",
+    "location": "Gurgaon",
+    "type": "Residential",
+    "area": "On Request",
+    "price": "8.24 - 15.38 Cr",
+    "badge": "Residential",
+    "category": "Residential",
+    "featured": true
+  },
+  {
+    "id": 135,
+    "title": "Godrej Vrikshya",
+    "location": "Gurgaon",
+    "type": "Residential",
+    "area": "On Request",
+    "price": "3.81 - 5.66 Cr",
+    "badge": "Residential",
+    "category": "Residential",
+    "featured": true
+  },
+  {
+    "id": 134,
+    "title": "Tulip Crimson",
+    "location": "Gurgaon",
+    "type": "Residential",
+    "area": "On Request",
+    "price": "5.56 Cr",
+    "badge": "Residential",
+    "category": "Residential",
+    "featured": true
+  },
+  {
+    "id": 133,
+    "title": "Pyramid Grand Vista",
+    "location": "Gurgaon",
+    "type": "SCO Plots",
+    "area": "On Request",
+    "price": "On Request",
+    "badge": "SCO Plots",
+    "category": "SCO Plots",
+    "featured": false
+  },
+  {
+    "id": 132,
+    "title": "Smart World Orchard",
+    "location": "Gurgaon",
+    "type": "Residential",
+    "area": "On Request",
+    "price": "On Request",
+    "badge": "Residential",
+    "category": "Residential",
+    "featured": false
+  },
+  {
+    "id": 131,
+    "title": "Suncity Monarch Residences",
+    "location": "Gurgaon",
+    "type": "Residential",
+    "area": "On Request",
+    "price": "On Request",
+    "badge": "Residential",
+    "category": "Residential",
+    "featured": false
+  },
+  {
+    "id": 130,
+    "title": "DLF Wellington Estate",
+    "location": "Gurgaon",
+    "type": "Residential",
+    "area": "On Request",
+    "price": "Price on Request",
+    "badge": "Residential",
+    "category": "Residential",
+    "featured": false
+  },
+  {
+    "id": 129,
+    "title": "DLF The Magnolias",
+    "location": "Gurgaon",
+    "type": "Residential",
+    "area": "On Request",
+    "price": "Price On Request",
+    "badge": "Residential",
+    "category": "Residential",
+    "featured": false
+  }
+]
